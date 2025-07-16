@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+
+[![roadmap.sh](https://roadmap.sh/card/wide/6788c54f98c00f7117755755?variant=dark)](https://roadmap.sh)
+
 <!--
 **nachose/nachose** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
