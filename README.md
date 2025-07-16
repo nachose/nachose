@@ -3,6 +3,8 @@
 
 [![roadmap.sh](https://roadmap.sh/card/wide/6788c54f98c00f7117755755?variant=dark)](https://roadmap.sh)
 
+[![codewars](https://www.codewars.com/users/nachose/badges/large)](www.codewars.com)
+
 <!--
 **nachose/nachose** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
