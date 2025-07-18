@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 
-[![roadmap.sh](https://roadmap.sh/card/wide/6788c54f98c00f7117755755?variant=dark)](https://roadmap.sh)
+[![roadmap.sh](https://roadmap.sh/card/wide/6788c54f98c00f7117755755?variant=dark)](https://roadmap.sh/u/nachose)
 
 [![codewars](https://www.codewars.com/users/nachose/badges/large)](https://www.codewars.com/users/nachose)
 
